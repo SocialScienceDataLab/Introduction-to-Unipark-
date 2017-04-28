@@ -2,7 +2,7 @@
 Topic-based and Cross-lingual Scaling of Political Text
 
 ## Talk
-Speaker: [Florian Keusch](http://sswml.uni-mannheim.de/Team/Florian%20Keusch/)
+Speaker: [Florian Keusch](http://floriankeusch.weebly.com/)
 MZES, Mannheim, April 26 2017
 
 ## Abstract
